@@ -1,6 +1,6 @@
 # 🗂️ Certifications Portfolio
 
-Welcome to my **Certifications Repository**; a central hub for all certifications I’ve earned (and will continue to earn) across my learning and professional journey.
+Welcome to my **Certifications Repository**, a central hub for all certifications I’ve earned (and will continue to earn) across my learning and professional journey.
 
 ## 🎯 Purpose
 
