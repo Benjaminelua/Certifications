@@ -25,9 +25,4 @@ Each certification is organized in its own folder with supporting files such as:
 - **TechUp African x DataCamp – Associate Data Scientist in Python (TAMP25)**  
 - *(More coming soon…)*
 
----
-
-## 📂 Structure
-
-
 
